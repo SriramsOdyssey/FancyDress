@@ -31,14 +31,4 @@
     </td>
     <td>&nbsp;</td><td>&nbsp;</td>
   </tr>
-  <tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr>
-  <tr>
-    <td>Mee..</td><td>&nbsp;</td><td>&nbsp;</td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/98616512/159128764-5afeb038-5c29-4ef6-8dc7-872ed4405f3e.jpg" height="300px" width="300px" />
-    </td>
-    <td>&nbsp;</td><td>&nbsp;</td>
-  </tr>
 </table>
